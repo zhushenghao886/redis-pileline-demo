@@ -14,7 +14,7 @@ spring:
         testWhileIdle: true
     mac-resource:
       database: 19
-      hostName: r-uf6rnu5b4x92rlun1apd.redis.rds.aliyuncs.com
+      hostName: r-uxxxxxxxxapd.redis.rds.aliyuncs.com
       port: 6379
       timeout: 5000
-      password: kxoh4OD5%0zw@KyL
+      password: kxxxxxxx@KyL
